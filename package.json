@@ -1,0 +1,12 @@
+{
+  "name": "Web-Extension-Playground",
+  "version": "0.0.1",
+  "description": "Playground of Web Extention",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest"
+  }
+}
